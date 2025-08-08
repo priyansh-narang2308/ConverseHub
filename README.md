@@ -10,7 +10,7 @@ Whether it’s one-on-one messaging or group chats, ConverseHub keeps communicat
 - **Online Status Indicators** – See who’s active in real time.
 
 ## 🛠 Tech Stack
-- **Frontend:** React / Next.js
+- **Frontend:** React
 - **Backend:** Node.js / Express
 - **Database:** MongoDB
 - **Real-Time:** Socket.io
